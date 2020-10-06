@@ -8,5 +8,6 @@ The devkitARM toolchain needs to be installed. Running `make` should then output
 
 ## Media
 (Gameplay is 60 FPS)
+
 ![play](media/play.gif "Play")
 
